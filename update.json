@@ -1,6 +1,6 @@
 {
-  "version": "0.3.1",
-  "downloadUrl": "https://raw.githubusercontent.com/zcampy/andaluciafire-Updates-/main/AndaluciaFire-0.3.1.apk",
-  "notes": "Añade simulación orientativa de propagación entre +1 y +12 h. Combina el perímetro con el viento previsto y pondera los focos FIRMS recientes según cercanía, antigüedad, confianza y potencia FRP.",
+  "version": "0.3.2",
+  "downloadUrl": "https://raw.githubusercontent.com/zcampy/andaluciafire-Updates-/main/AndaluciaFire-0.3.2.apk",
+  "notes": "La leyenda pasa a la botonera lateral y los controles del mapa pueden recogerse para dejar más espacio visible. Mantiene la simulación orientativa por viento y focos FIRMS.",
   "required": false
 }
