@@ -1,0 +1,6 @@
+{
+  "version": "0.2.2",
+  "downloadUrl": "https://raw.githubusercontent.com/zcampy/andaluciafire-Updates-/main/AndaluciaFire-0.2.2.apk",
+  "notes": "Añade información oficial, evolución histórica, viento, calidad del aire, búsqueda, ubicación GPS y canal automático de actualizaciones.",
+  "required": false
+}
