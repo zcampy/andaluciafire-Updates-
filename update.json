@@ -1,6 +1,6 @@
 {
-  "version": "0.2.2",
-  "downloadUrl": "https://raw.githubusercontent.com/zcampy/andaluciafire-Updates-/main/AndaluciaFire-0.2.2.apk",
-  "notes": "Añade información oficial, evolución histórica, viento, calidad del aire, búsqueda, ubicación GPS y canal automático de actualizaciones.",
+  "version": "0.3.1",
+  "downloadUrl": "https://raw.githubusercontent.com/zcampy/andaluciafire-Updates-/main/AndaluciaFire-0.3.1.apk",
+  "notes": "Añade simulación orientativa de propagación entre +1 y +12 h. Combina el perímetro con el viento previsto y pondera los focos FIRMS recientes según cercanía, antigüedad, confianza y potencia FRP.",
   "required": false
 }
