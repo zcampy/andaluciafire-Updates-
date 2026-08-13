@@ -1,6 +1,6 @@
 {
-  "version": "0.6.0",
-  "downloadUrl": "https://raw.githubusercontent.com/zcampy/andaluciafire-Updates-/main/AndaluciaFire-0.6.0.apk",
-  "notes": "Hasta 3 zonas vigiladas simultáneas. Mantén pulsada una zona del mapa para abrir el menú: cambia el radio con el slider (1-50 km) o elimínala. Si mantienes pulsado en una zona vacía del mapa, creas una nueva. La creación de zonas ya no consume un slot hasta que confirmes. Si vienes de 0.5.0 no necesitas desinstalar (misma firma).",
+  "version": "0.6.1",
+  "downloadUrl": "https://raw.githubusercontent.com/zcampy/andaluciafire-Updates-/main/AndaluciaFire-0.6.1.apk",
+  "notes": "Fix: el slider de radio del menú contextual ya se mueve y actualiza el círculo en vivo al arrastrar. Si vienes de 0.6.0 no necesitas desinstalar.",
   "required": false
 }
