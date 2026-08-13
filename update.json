@@ -1,6 +1,6 @@
 {
-  "version": "0.3.3",
-  "downloadUrl": "https://raw.githubusercontent.com/zcampy/andaluciafire-Updates-/main/AndaluciaFire-0.3.3.apk",
-  "notes": "Mejora el perímetro completo del incendio y la propagación acumulada con viento hora a hora. Añade humo actual, histórico anual EFFIS, hectáreas y porcentajes provinciales, nueva leyenda de iconos y corrige la pantalla negra, el splash y la disposición de los controles.",
+  "version": "0.5.0",
+  "downloadUrl": "https://raw.githubusercontent.com/zcampy/andaluciafire-Updates-/main/AndaluciaFire-0.5.0.apk",
+  "notes": "Zona vigilada configurable con slider 1-50 km (default 2 km). Predicción de humo a 30 minutos según el viento en tu ubicación y en la zona vigilada, con aviso. Calidad del aire en tu ubicación (AQI europeo + PM2.5 de la localidad más cercana). Primer release firmado con clave estable; si vienes de 0.3.3 (firma debug), desinstala antes de instalar esta versión.",
   "required": false
 }
