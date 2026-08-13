@@ -1,6 +1,6 @@
 {
-  "version": "0.5.0",
-  "downloadUrl": "https://raw.githubusercontent.com/zcampy/andaluciafire-Updates-/main/AndaluciaFire-0.5.0.apk",
-  "notes": "Zona vigilada configurable con slider 1-50 km (default 2 km). Predicción de humo a 30 minutos según el viento en tu ubicación y en la zona vigilada, con aviso. Calidad del aire en tu ubicación (AQI europeo + PM2.5 de la localidad más cercana). Primer release firmado con clave estable; si vienes de 0.3.3 (firma debug), desinstala antes de instalar esta versión.",
+  "version": "0.6.0",
+  "downloadUrl": "https://raw.githubusercontent.com/zcampy/andaluciafire-Updates-/main/AndaluciaFire-0.6.0.apk",
+  "notes": "Hasta 3 zonas vigiladas simultáneas. Mantén pulsada una zona del mapa para abrir el menú: cambia el radio con el slider (1-50 km) o elimínala. Si mantienes pulsado en una zona vacía del mapa, creas una nueva. La creación de zonas ya no consume un slot hasta que confirmes. Si vienes de 0.5.0 no necesitas desinstalar (misma firma).",
   "required": false
 }
